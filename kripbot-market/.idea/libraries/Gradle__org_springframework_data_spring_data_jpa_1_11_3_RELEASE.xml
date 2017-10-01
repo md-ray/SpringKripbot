@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-jpa:1.11.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.3.RELEASE/34f8d9bf963fe86b05655a5918a5aece1924ba2b/spring-data-jpa-1.11.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.3.RELEASE/1260e03c1cae1608782c759c4aa151ec6f53f3b9/spring-data-jpa-1.11.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
